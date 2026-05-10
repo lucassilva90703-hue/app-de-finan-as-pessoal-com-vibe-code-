@@ -2,7 +2,8 @@
 Quero criar um aplicativo de Organização de Finanças Pessoais que funcione por meio de conversas simples com o usuário.  
 A ideia é que a pessoa fale com o app como se estivesse conversando com alguém, sem precisar preencher formulários ou usar planilhas complicadas.  
 O aplicativo terá um layout com destaque em vermelho e contará com um assistente virtual chamado Miguel.
-
+prd refinado no copilot web:
+¨¨markdown
 # Problema
 Muita gente desiste de controlar seus gastos porque os aplicativos atuais pedem muitas informações manuais e não se adaptam ao jeito de cada pessoa.  
 Quero resolver isso oferecendo uma experiência prática e personalizada, baseada em conversa e dicas automáticas de economia.
