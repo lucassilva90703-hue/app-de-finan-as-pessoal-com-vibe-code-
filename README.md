@@ -98,7 +98,7 @@ O app segue princípios de **design universal**, garantindo acessibilidade e inc
 - Textos claros e sem jargões técnicos
 ## reflexao
 ## o que funcionou bem?
-o refinamendo do prd ajudou bastante para fazer a criançao do app, sem ele tao teriamos o resultado final do projeto, que me desafiou a fazer um pequenos ajustes no site.
+o refinamendo do prd ajudou bastante para fazer a criançao do app, sem ele não teriamos o resultado final do projeto, que me desafiou a fazer um pequenos ajustes no site.
 
 ## o que nao funcionou como o esperado?
 logo que entrei no site percebi que ele estava muito pouco responsivo com certo atraso nos comandos.
