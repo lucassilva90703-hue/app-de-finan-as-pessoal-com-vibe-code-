@@ -43,10 +43,11 @@ Gerar um plano de MVP que inclua:
 - Fluxo inicial de uso (primeira conversa, registro de gasto, relatório, dica, mensagem de parabéns, convite para nova meta).  
 - Critérios de validação (ex.: número de usuários que mantêm o registro por 7 dias).  
 Usar linguagem simples e educativa, em português.
-resultado final no loveble: https://fala-com-miguel.lovable.app
+
+# resultado final no loveble: https://fala-com-miguel.lovable.app
 print: https://www.awesomescreenshot.com/image/60363690?key=a1eaf7bdd6d6271371000fcf60d804ef
 
-interçoes com o lovable:
+ # interçoes com o lovable:
 vamos criar um app com base no seguinte prd
 deixe o app mais responsivel
 
