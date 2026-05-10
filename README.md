@@ -1,0 +1,43 @@
+# Contexto
+Quero criar um aplicativo de Organização de Finanças Pessoais que funcione por meio de conversas simples com o usuário.  
+A ideia é que a pessoa fale com o app como se estivesse conversando com alguém, sem precisar preencher formulários ou usar planilhas complicadas.  
+O aplicativo terá um layout com destaque em vermelho e contará com um assistente virtual chamado Miguel.
+
+# Problema
+Muita gente desiste de controlar seus gastos porque os aplicativos atuais pedem muitas informações manuais e não se adaptam ao jeito de cada pessoa.  
+Quero resolver isso oferecendo uma experiência prática e personalizada, baseada em conversa e dicas automáticas de economia.
+
+# Público-Alvo
+Pessoas que estão começando a organizar suas finanças e querem uma solução fácil, sem complicação.  
+Exemplos: jovens adultos, autônomos ou qualquer pessoa que nunca conseguiu manter o hábito de registrar seus gastos.
+
+# Funcionalidades-Chave (MVP)
+1. Registrar gastos conversando com o app, em linguagem simples.  
+2. Classificação automática dos gastos (alimentação, transporte, lazer etc.).  
+3. Definição e acompanhamento de metas financeiras básicas.  
+4. Receber dicas rápidas de economia do “Agente Financeiro Miguel”.  
+5. Visualizar relatórios claros e personalizados (ex.: gráficos semanais).  
+6. Mensagem de **parabenização automática** quando o usuário atingir uma meta (ex.: “Parabéns! Você bateu sua meta de economia 🎉”).  
+7. Mensagem de **convite para nova meta** assim que a primeira meta for batida (ex.: “Excelente! Que tal definir uma nova meta para continuar evoluindo?”).
+
+# Funcionalidades Futuras
+- Integração com bancos.  
+- Gamificação (desafios e recompensas).  
+- Relatórios avançados.
+
+# Design Universal
+A solução deve seguir princípios de **design universal**, garantindo que o aplicativo possa ser usado com boa experiência pelo maior número possível de pessoas.  
+Isso significa:  
+- Interface simples e intuitiva, sem excesso de botões ou menus.  
+- Textos claros e acessíveis, evitando jargões técnicos.  
+- Cores e contrastes que favoreçam a leitura (mesmo em layout vermelho, manter contraste adequado).  
+- Compatibilidade com diferentes tamanhos de tela (celulares, tablets).  
+- Inclusão de recursos de acessibilidade, como suporte a leitores de tela e navegação por voz.
+
+# Entregável da IA
+Gerar um plano de MVP que inclua:  
+- Principais telas (chat, metas, relatórios, mensagens de parabéns e convite para nova meta).  
+- Recursos necessários para funcionar.  
+- Fluxo inicial de uso (primeira conversa, registro de gasto, relatório, dica, mensagem de parabéns, convite para nova meta).  
+- Critérios de validação (ex.: número de usuários que mantêm o registro por 7 dias).  
+Usar linguagem simples e educativa, em português.
