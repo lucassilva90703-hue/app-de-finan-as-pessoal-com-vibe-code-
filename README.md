@@ -44,14 +44,13 @@ Gerar um plano de MVP que inclua:
 - Critérios de validação (ex.: número de usuários que mantêm o registro por 7 dias).  
 Usar linguagem simples e educativa, em português.
 resultado final no loveble: https://fala-com-miguel.lovable.app
-
- print: https://www.awesomescreenshot.com/image/60363690?key=a1eaf7bdd6d6271371000fcf60d804ef
+print: https://www.awesomescreenshot.com/image/60363690?key=a1eaf7bdd6d6271371000fcf60d804ef
 
 interçoes com o lovable:
 vamos criar um app com base no seguinte prd
 deixe o app mais responsivel
-# 📱 Miguel Te Ajuda
 
+# 📱 Miguel Te Ajuda
 Aplicativo de **Organização de Finanças Pessoais** que funciona por meio de conversas simples com o usuário.  
 O assistente virtual **Miguel** ajuda a registrar gastos, definir metas e visualizar relatórios de forma prática e acessível.  
 O layout tem destaque em vermelho e segue princípios de **design universal**, garantindo boa experiência para o maior número possível de usuários.
