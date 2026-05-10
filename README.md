@@ -105,3 +105,5 @@ logo que entrei no site percebi que ele estava muito pouco responsivo com certo 
 
 ## o que aprendeu conversando com as ias?
 aprendi que devo da mais detalhes para ias poderem ter clareza sobre minhas ideias, percebi que sendo muito subjetivo elas nao tendem as  minhas ideais é nem gera elas de modo adequado.
+
+# desafio de projeto da dio 
