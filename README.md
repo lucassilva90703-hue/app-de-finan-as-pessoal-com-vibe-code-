@@ -104,6 +104,6 @@ o refinamendo do prd ajudou bastante para fazer a criançao do app, sem ele não
 logo que entrei no site percebi que ele estava muito pouco responsivo com certo atraso nos comandos.
 
 ## o que aprendeu conversando com as ias?
-aprendi que devo da mais detalhes para ias poderem ter clareza sobre minhas ideias, percebi que sendo muito subjetivo elas nao tendem as  minhas ideais é nem gera elas de modo adequado.
+Aprendi que devo dar mais detalhes para as IAs terem clareza sobre minhas ideias. Percebi que, sendo muito subjetivo, elas não conseguem entender exatamente o que quero e acabam não desenvolvendo minhas ideias de forma adequada.
 
 # desafio de projeto da dio 
